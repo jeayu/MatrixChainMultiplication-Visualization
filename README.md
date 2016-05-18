@@ -1,2 +1,2 @@
-# ¾ØÕóÁ´Ïà³ËÑİÊ¾
+# çŸ©é˜µé“¾ç›¸ä¹˜åŠ¨ç”»æ¼”ç¤º
 Matrix Chain Multiplication Algorithm Demo
